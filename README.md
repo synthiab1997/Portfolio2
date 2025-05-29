@@ -4,7 +4,7 @@ This is my personal front-end developer portfolio created for the Noroff Front-E
 
 ## 🌐 Live Site
 
-🔗 [Visit Portfolio](https://your-netlify-link.netlify.app)
+🔗 [Visit Portfolio](https://portfolio-aimeesynthia.netlify.app/)
 
 ## 🛠️ Built With
 
