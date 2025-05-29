@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Global font customization */
+body {
+  @apply font-sans bg-gradient-to-b from-white to-gray-100 text-gray-900;
+}
+
+/* Optional: Link styling */
+a {
+  @apply text-blue-600 hover:underline;
+}
